@@ -1,0 +1,23 @@
+{
+  "name": "elite-pp",
+  "version": "1.0.0",
+  "description": "An osu! pp javascript rewrite as a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliteronix/elite-pp.git"
+  },
+  "keywords": [
+    "osu",
+    "pp"
+  ],
+  "author": "Eliteronix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eliteronix/elite-pp/issues"
+  },
+  "homepage": "https://github.com/Eliteronix/elite-pp#readme"
+}
